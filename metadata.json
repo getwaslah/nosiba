@@ -1,0 +1,7 @@
+{
+  "name": "عيادة الدكتورة نسيبة ياسر العريقي للأسنان",
+  "description": "تطبيق تنظيم المواعيد والمهام اليومية لعيادة الدكتورة نسيبة ياسر العريقي - جامعة السعيد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
